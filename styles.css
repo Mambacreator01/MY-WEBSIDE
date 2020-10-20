@@ -1,0 +1,62 @@
+.hello{
+    text-align: center;
+    color: YEllow;
+    font-family: 'Bungee Shade', cursive;
+    font-family: 'Permanent Marker', cursive;
+}
+.header{ display: flex;
+    justify-content: center;
+     padding: 5px;
+}
+img {
+    width: 350px;
+    border: 8px inset;
+    color: red;
+
+
+
+}
+
+body {
+    background-color: #bed0ff;
+    background-image: url(https://images.unsplash.com/photo-1505142468610-359e7d316be0?ixlib=rb-1.2.1&w=1000&q=80);
+}
+
+h1 {
+    text-align: center;
+    color: red;
+    font-family: 'Bungee Shade', cursive;
+    font-family: 'Permanent Marker', cursive;
+}
+
+h2 {
+    color: Red;
+    text-align: center;
+    font-family: 'Bungee Shade', cursive;
+    font-family: 'Permanent Marker', cursive;
+    font-family: 'Orbitron', sans-serif;
+
+}
+
+li {
+    color: #8c3194;
+    font-size: 18px;
+    font-family: 'Great Vibes', cursive;
+}
+
+h4 {
+    font-family: 'Bungee Inline', cursive;
+    font-size: 14px;
+}
+
+h3 {
+    font-family: 'Faster One', cursive;
+    font-size: 32px;
+    color: orange;
+}
+
+img.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
